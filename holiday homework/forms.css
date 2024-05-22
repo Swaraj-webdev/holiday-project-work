@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    line-height: 2;
+    color: #d8d4d4;
+    background-color: #242424;
+    margin-left: 15%;
+    padding: 0;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="number"],
+  select {
+    width: 50%;
+    padding: 1.3rem;
+    margin-bottom: 1rem;
+    border: 1px solid #4CAF50;
+    border-radius: 4px;
+    box-sizing: border-box;
+    accent-color: #414040;
+  }
+  
+  input[type="checkbox"] {
+    accent-color: #4CAF50;
+  }
+  
+  input[type="radio"] {
+    accent-color: #4CAF50;
+    margin-right: 0.5rem;
+  }
+
+  select {
+ accent-color:#4CAF50 ;
+  }
+  button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  button1 {
+    background-color: #4CAF50;
+    color: white;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+    margin-left: 40%;
+  }
+  button:hover {
+    background-color: #45a049;
+  }
+
+  button1:hover {
+    background-color: #45a049;
+  }
+  
+  img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+  }
